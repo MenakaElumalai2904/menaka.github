@@ -11,6 +11,6 @@ Web Tools: VS Code, Google Colab, Weka
 ## Contact Me
 -  Email: menakaelumalai29@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/menakaelumalai7/
--  GitHub: [github.com/yourusername](https://github.com/yourusername)
+-  GitHub: https://github.com/MenakaElumalai2904/menaka.github
 
 
