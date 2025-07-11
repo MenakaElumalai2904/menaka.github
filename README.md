@@ -25,7 +25,6 @@ This project focuses on detecting **Denial of Service (DoS)** and **Distributed 
 - **Matplotlib** – for data visualization
 - **SQLite** – for logging detected attacks
 - **Google Colab** – for cloud-based execution
-- 
 
 # Internship Experience
 # Intern – Mosys Consultancy Service Private Limited  
