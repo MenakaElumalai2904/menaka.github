@@ -8,6 +8,25 @@ Aspiring Front-end Developer | Python Enthusiast | Comfortable with Linux & Wind
 - **Python Libraries:** Pandas, NumPy, BeautifulSoup
 - **Operating Systems:** Windows, Ubuntu/Linux
 - **Web Tools:** VS Code, Google Colab, Weka
+# Project 
+# Intrusion Detection System for DoS and DDoS Attacks Using Machine Learning
+This project focuses on detecting **Denial of Service (DoS)** and **Distributed Denial of Service (DDoS)** attacks in real-time network traffic using **machine learning** techniques. It uses PCAP files to analyze network packets and applies an unsupervised learning model to identify anomalies in traffic patterns.
+# Project Features
+- Analyze packet capture (`.pcap`) files using **Scapy**
+- Extract useful features like packet size, packet rate, and protocols
+- Apply **Isolation Forest** (unsupervised ML algorithm) to detect anomalies
+- Visualize traffic behavior and detected attacks using **Matplotlib**
+- Log suspicious traffic data into a **SQLite** database
+# Technologies Used
+- **Python 3**
+- **Scapy** – for packet analysis
+- **Pandas** – for data processing
+- **Scikit-learn** – for machine learning (Isolation Forest)
+- **Matplotlib** – for data visualization
+- **SQLite** – for logging detected attacks
+- **Google Colab** – for cloud-based execution
+- 
+
 # Internship Experience
 # Intern – Mosys Consultancy Service Private Limited  
 **Duration:** [January & 2025] – [june & 2025]  
