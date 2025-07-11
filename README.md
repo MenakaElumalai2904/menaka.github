@@ -15,12 +15,12 @@ Aspiring Front-end Developer | Python Enthusiast | Comfortable with Linux & Wind
 During my internship, I worked on a real-time institutional repository project using **EPrints**, a digital library platform. I gained strong hands-on experience in both backend and server-side tasks.
 
 **Key Contributions:**
-- ✅ Installed and configured the **EPrints** repository system on Ubuntu Linux
-- ✅ Integrated **REST API** support for accessing and managing repository data
-- ✅ Customized repository **web pages** using HTML, CSS, and JavaScript
-- ✅ Worked with a **live production server**, handled Apache configurations
-- ✅ Gained proficiency in **Linux (Ubuntu)** terminal commands and troubleshooting
-- ✅ Modified and maintained backend scripts for improved functionality
+- Installed and configured the **EPrints** repository system on Ubuntu Linux
+- Integrated **REST API** support for accessing and managing repository data
+- Customized repository **web pages** using HTML, CSS, and JavaScript
+- Worked with a **live production server**, handled Apache configurations
+- Gained proficiency in **Linux (Ubuntu)** terminal commands and troubleshooting
+- Modified and maintained backend scripts for improved functionality
 
 **Tools & Technologies Used:**  
 *EPrints, Linux (Ubuntu), Apache, HTML, CSS, JavaScript, REST API, Terminal*
